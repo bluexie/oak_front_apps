@@ -1,0 +1,86 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 09 Jan 2024 14:18:51 +0000
+MD5Sum:
+ 4162a4d61a727e01ae29ca73c72efe7e               38 Release
+ 8ade26e25245459f10677b9a2748209c             3679 dists/jammy/Release
+ a2ede4545c4991bd67db622b4d34df25              417 dists/jammy/main/binary-amd64/Packages
+ 561bb2e674fb1774db8b6c0b9c43ae06              328 dists/jammy/main/binary-amd64/Packages.gz
+ a4b120631ea60d392aa120fb2bd39433              138 dists/jammy/main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 dists/jammy/main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a               20 dists/jammy/main/binary-arm64/Packages.gz
+ 16418bee8f74b2d0dedc59a047d2e4b5              138 dists/jammy/main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 dists/jammy/main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a               20 dists/jammy/main/binary-armhf/Packages.gz
+ 89209a2e09ded9efeb720334ef3a8846              138 dists/jammy/main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 dists/jammy/main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a               20 dists/jammy/main/binary-i386/Packages.gz
+ ef5c204bf834358904acef835f2eb0f1              137 dists/jammy/main/binary-i386/Release
+ 1e0676d06379db3382f8e3a6a55664a9              139 dists/jammy/main/source/Release
+ 7029066c27ac6f5ef18d660d5741979a               20 dists/jammy/main/source/Sources.gz
+SHA1:
+ 8f832805c38f39b2eb5b4b334415345375f7cc7d               38 Release
+ e488315f3776fcb5ea49135bd2c3cb951d308e7c             3679 dists/jammy/Release
+ 100f1a694fd98350e038679007082bc439ec7785              417 dists/jammy/main/binary-amd64/Packages
+ a7853c6796b31997172f047067ce8349d763817a              328 dists/jammy/main/binary-amd64/Packages.gz
+ 2feadd88b90a9dfba87d79cc30ff62f90a0c0931              138 dists/jammy/main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 dists/jammy/main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4               20 dists/jammy/main/binary-arm64/Packages.gz
+ 0534b3ce086baa70c6e4d1325e8f862a50eacb83              138 dists/jammy/main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 dists/jammy/main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4               20 dists/jammy/main/binary-armhf/Packages.gz
+ 134db63935ee6f76e94e8ce6669a1a1607c5c901              138 dists/jammy/main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 dists/jammy/main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4               20 dists/jammy/main/binary-i386/Packages.gz
+ 8ed64cbe63221dc0d13bc1656bd9a496d4c38e8a              137 dists/jammy/main/binary-i386/Release
+ fc438616faea72787a11b008ed8040cf0bdb2d55              139 dists/jammy/main/source/Release
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4               20 dists/jammy/main/source/Sources.gz
+SHA256:
+ 5e81574b8ecd66b035252f63cbdd4e537f51643fc843ed6aeeea23c12c13f2c2               38 Release
+ f662f3884c52faaf77ad9bdb457d7e382a510c7fcd1f8d4603810d42ecd8229e             3679 dists/jammy/Release
+ 1295566bd29afd066fcdae224951387fa5de0ad98253773f443bb891819c393b              417 dists/jammy/main/binary-amd64/Packages
+ 443341b7a9d83099eaa004133b8ff53e67da36ef67bf5906eba9269b1adf9472              328 dists/jammy/main/binary-amd64/Packages.gz
+ 6e801a5301d659047c3314b9505086f9090d5691884cca9492b15e988aad96ba              138 dists/jammy/main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 dists/jammy/main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2               20 dists/jammy/main/binary-arm64/Packages.gz
+ c7fcf9375d4e5b2c47fb5e837f8f2aa5c1bb14b6e321ce156c20e170c8be8944              138 dists/jammy/main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 dists/jammy/main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2               20 dists/jammy/main/binary-armhf/Packages.gz
+ a80de4c9b30738400fa63df8e5430be416c1b36cc8adae020b0e1fcfb80d2f87              138 dists/jammy/main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 dists/jammy/main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2               20 dists/jammy/main/binary-i386/Packages.gz
+ 3a9f4f20df410e92f6285f962ff6955a8706205d33290283dc9bf97049809162              137 dists/jammy/main/binary-i386/Release
+ 44c5f4d8e9f72fd00f67821cd8250cdb9a68665c1f75f909a2f695d1cf134d2a              139 dists/jammy/main/source/Release
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2               20 dists/jammy/main/source/Sources.gz
+SHA512:
+ b52e45f6a64fb15f8a522feb3fc5a1984e886799bd8c95674996eb6679c2643bbfe30bf508665c2dd96e863d98ca9d6386989d0c4020bc90436baa5df8447449               38 Release
+ da02ac5422162d3cc66d48e91c50241447712f599f82836e5483d82f0c2570f89d25e0c1ecb5b211da8467890474624b93e8e707b96eb9793e59c59adafe3069             3679 dists/jammy/Release
+ e32d71830bb4c98a0351a9962d069ff3f2545b9d63b217a135df3b8266b3abe681a8c868d1edc17235d767858bab0998cf8974dcac1e899589e8dd89af5fdb26              417 dists/jammy/main/binary-amd64/Packages
+ e3fafb742a59a3da7b8c3c56420591975d0f8de2dc9453c3cca461901c4d2b4572157780d6211fc9f554114b0162c7f405f256785ee9b91fcfcf9f994cdd72c4              328 dists/jammy/main/binary-amd64/Packages.gz
+ 7ebacf40872ef569fb582329ec39d3c0572651166e1743eaf54694f240b5473822aa353ee5f5ca07f59b9792ba1beafc5a7fc13ab25e018b3eb42211a9bd1775              138 dists/jammy/main/binary-amd64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 dists/jammy/main/binary-arm64/Packages
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f               20 dists/jammy/main/binary-arm64/Packages.gz
+ 0891ca1b70f44e6102d975d77a0a2943115caa7bf14326a66e5c9b3799e83c2e140fa74bd1dd5ba55d72823fa6f35ea532e307bfdd52785c04060fb081d3cd0c              138 dists/jammy/main/binary-arm64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 dists/jammy/main/binary-armhf/Packages
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f               20 dists/jammy/main/binary-armhf/Packages.gz
+ c7aa3b18af636baa0be44714b1d895ec8d6207104df1628460e889c94ed531b3efb308d8f3ceba52c2f830292222ad09bda6accf92b4fc891912282d8c606739              138 dists/jammy/main/binary-armhf/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 dists/jammy/main/binary-i386/Packages
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f               20 dists/jammy/main/binary-i386/Packages.gz
+ 3f35e3766dbf0bf6c7c6689bc4b618aeb18823349686ef0df0bf36dcd4b90187ae91652e60bceb23be414ae5063a7419418566e4949a0aa5bd0d8cd98e57bf09              137 dists/jammy/main/binary-i386/Release
+ 1fc50777108567005649a7667313088dc9043068cf1424b657a258dc08dc29c60bdd9e0013eaf9df318288f0a7484f36afdd67f571f97fed8a7b2130f036222d              139 dists/jammy/main/source/Release
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f               20 dists/jammy/main/source/Sources.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQHJBAEBCgAzFiEEraFDuTagonLOZi1YskVNbCn/xFYFAmWdVhoVHGJsdWV4aWV5
+aW5qaWVAcXEuY29tAAoJELJFTWwp/8RWA28MAKVe7rU237BEp39AU3AuZnqpK+L/
+PYt10DVW3kd74ggOwFqc4RmEnrrCudirtQFdOJCIgE4GiQnnYcTrv3Kxzxk3T4JU
+tffkZcq/rC/fxbAA1S/OK8ZMH14Xz/nf/9yyTkA9ndVeCXnndrq0JRp5ndK0SwBH
+lCyShmyxTjWFRx7EtqHTyA3JzgURUqmHgQeSy9+T2pupIVvLQQhrfdnH53nZSSnm
+YHF0ro14MMAS9e6E6lF79Ln6WIAWk+1o0Zap0m91h4TDa1z/9mC3BWF5dwtlbJ+N
+HjWngI+R2RjJBF6YojSPf/nGTyvWdnWHy1KPl4hDeGa9yzHj0nRWVc9gEFRUT9XT
+rjyKLKSH7MOXtAY4qRMlB3oTQ2NhUiDCwcC+Sw6Sjv/3b3/XDCVqwSgRSiRS6kjY
+c/pUQOfg8FF1S1OOO2dEt0uPUeVsY87QWYM/ZaFmcry3+6SyLgqhrAZSYqH9ceiP
+jAXkuz+ctUmlTt/qiyYD4YMfEjcmohaQe5ULew==
+=AFBn
+-----END PGP SIGNATURE-----
