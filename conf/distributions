@@ -1,0 +1,7 @@
+Origin: Test
+Label: Test Repo
+Suite: stable
+Codename: jammy
+Architectures: i386 amd64 arm64 armhf source
+Components: main 
+Description: Debian ARM packages github repository test

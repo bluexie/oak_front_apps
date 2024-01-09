@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Test
+Label: Test Repo
+Architecture: armhf
+Description: Debian ARM packages github repository test

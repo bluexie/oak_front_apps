@@ -1,0 +1,56 @@
+Origin: Test
+Label: Test Repo
+Suite: stable
+Codename: jammy
+Date: Tue, 09 Jan 2024 13:27:34 UTC
+Architectures: i386 amd64 arm64 armhf
+Components: main
+Description: Debian ARM packages github repository test
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ ef5c204bf834358904acef835f2eb0f1 137 main/binary-i386/Release
+ a2ede4545c4991bd67db622b4d34df25 417 main/binary-amd64/Packages
+ 561bb2e674fb1774db8b6c0b9c43ae06 328 main/binary-amd64/Packages.gz
+ a4b120631ea60d392aa120fb2bd39433 138 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 16418bee8f74b2d0dedc59a047d2e4b5 138 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 89209a2e09ded9efeb720334ef3a8846 138 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 1e0676d06379db3382f8e3a6a55664a9 139 main/source/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 8ed64cbe63221dc0d13bc1656bd9a496d4c38e8a 137 main/binary-i386/Release
+ 100f1a694fd98350e038679007082bc439ec7785 417 main/binary-amd64/Packages
+ a7853c6796b31997172f047067ce8349d763817a 328 main/binary-amd64/Packages.gz
+ 2feadd88b90a9dfba87d79cc30ff62f90a0c0931 138 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 0534b3ce086baa70c6e4d1325e8f862a50eacb83 138 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 134db63935ee6f76e94e8ce6669a1a1607c5c901 138 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ fc438616faea72787a11b008ed8040cf0bdb2d55 139 main/source/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 3a9f4f20df410e92f6285f962ff6955a8706205d33290283dc9bf97049809162 137 main/binary-i386/Release
+ 1295566bd29afd066fcdae224951387fa5de0ad98253773f443bb891819c393b 417 main/binary-amd64/Packages
+ 443341b7a9d83099eaa004133b8ff53e67da36ef67bf5906eba9269b1adf9472 328 main/binary-amd64/Packages.gz
+ 6e801a5301d659047c3314b9505086f9090d5691884cca9492b15e988aad96ba 138 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ c7fcf9375d4e5b2c47fb5e837f8f2aa5c1bb14b6e321ce156c20e170c8be8944 138 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ a80de4c9b30738400fa63df8e5430be416c1b36cc8adae020b0e1fcfb80d2f87 138 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 44c5f4d8e9f72fd00f67821cd8250cdb9a68665c1f75f909a2f695d1cf134d2a 139 main/source/Release

@@ -1,0 +1,16 @@
+Package: app
+Version: 0.0.0
+Architecture: amd64
+Installed-Size: 11831
+Maintainer: you
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/a/app/app_0.0.0_amd64.deb
+Size: 4396044
+SHA256: 94ba80692b2ab23117fea25ec958c7b5e6a7cb518905ba46db9783ee76f66ac1
+SHA1: fe0c5e5b15ed9a0493d3bdbe70ad1bb80e71a006
+MD5sum: a6a933f723208219f7ba98f4bf771fc7
+Description: A Tauri App
+ (none)
+
